@@ -1,0 +1,6 @@
+# Backend dependencies for SAP scheduling agreement automation
+Flask
+Flask-Cors
+pandas
+numpy
+pywin32; platform_system == "Windows"
